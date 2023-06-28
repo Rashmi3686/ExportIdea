@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5YCEjI+CQauKKiSgOfe0PMOVfntTgISAV1n7DBrel1rYLCj+cACj1rvDYKafaM7WmK7rjW3MqltM2rSi6sKo1w==",
+  "success": true,
+  "projectFilePath": "C:\\ExportIdea\\ExportIdea\\ExportIdea\\ExportIdea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
